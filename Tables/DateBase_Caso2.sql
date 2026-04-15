@@ -1,0 +1,2 @@
+create DATABASE Caso2_AnalisisMusical;
+USE Caso2_AnalisisMusical;
