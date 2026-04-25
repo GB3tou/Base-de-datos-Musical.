@@ -1,7 +1,8 @@
+
 -- 1. Crea la base de datos solo si no está ahí
-create database AnalisisCaso2;
+create database caso2;
 -- 2. Usa la base de datos
-use AnalisisCaso2;
+use caso2;
 -- 3. Crea la tabla de clientes
 
 CREATE TABLE artists (
